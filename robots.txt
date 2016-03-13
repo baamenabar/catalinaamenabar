@@ -1,0 +1,6 @@
+# to avoid indexing of pages still in development
+# para evitar el indexado de páginas en desarrollo
+
+User-agent: *
+Disallow: /app/
+Disallow: /appp/

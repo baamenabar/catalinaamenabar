@@ -1,0 +1,35 @@
+/* CSS Document */
+
+header nav ul>li{
+	display:inline !important;
+	zoom:1;
+}
+header nav>ul{/*margin-left:250px;*/}
+header nav ul li ul li{width:100%;}
+ul.temas>li{
+	display:inline !important;
+	zoom:1;
+	margin-right:4px;
+}
+ul.subTemas>li{
+	display:inline !important;
+	zoom:1;
+	margin-right:6px !important;
+}
+ul.subTemas>li>div>img{display:block;}
+article>div header h2, article>div header .cap, article>header h2, article>header .cap, .parrafosInterior article>div, .parrafosInterior article>aside, article>div, article aside, article>aside, .formulario, .contactoInfo, .formulario label, ul.galeria>li{
+	display:inline !important;
+	zoom:1;
+}
+
+
+footer nav>ul>li {
+	zoom:1;
+	display:inline !important;
+	vertical-align:top;
+}
+footer nav, footer div.direcciones {
+	zoom:1;
+	display:inline !important;
+}
+footer div.direcciones {width:220px;}

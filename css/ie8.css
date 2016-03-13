@@ -1,0 +1,5 @@
+/* CSS Document */
+.titulo{
+	background:url(../imgs/layout/fondo.titulo-ie.png) !important;
+}
+.titulo.interior{background:none !important;}
