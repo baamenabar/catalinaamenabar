@@ -127,6 +127,7 @@ header("Pragma: no-cach");
 				</figure>
 			</aside>
 		</article>
+		<?php /* ?>
 		<hr class="punteada">
 		<article>
 			<div>
@@ -224,6 +225,7 @@ header("Pragma: no-cach");
 				</figure>
 			</aside>
 		</article>
+		<?php //*/ ?>
 		<hr class="punteada">
 	</div>
 	<p>&nbsp;</p>

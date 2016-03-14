@@ -233,7 +233,7 @@ $(document).ready(function(){
 					<p>Transferencia bancaria</p>
 					<p>Cheque</p>
 				</li>
-				<li>
+				<!--<li>
 					<div class="datoRelevante">
 						<h2>Sala de ventas</h2>
 						<p><strong>Caldera</strong></p>
@@ -254,7 +254,7 @@ $(document).ready(function(){
 					<div class="datoRelevante telefono">
 						<h2>tel: (52) 317872</h2>
 					</div>
-				</li>
+				</li>-->
 			</ul>
 		</div>
 		

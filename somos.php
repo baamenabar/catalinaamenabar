@@ -61,7 +61,7 @@ header("Pragma: no-cach");
       <aside>
         <figure><img src="imgs/content/gonzalo-martinez-noti.jpg" width="350" height="449"></figure>
       </aside>
-    </article>-->
+    </article>
    
   <p>&nbsp;</p>
     <article>
@@ -72,7 +72,7 @@ header("Pragma: no-cach");
       <aside>
         <figure><img src="imgs/content/eugenio-amenabar.jpg" width="350" height="450"></figure>
       </aside>
-    </article>
+    </article>-->
   </div>
    <hr class="punteada" style="clear:both;">
 </div>
